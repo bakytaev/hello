@@ -1,3 +1,4 @@
 # hello world command
-msg = "Hello World!!!"
+msg = "Hello World!"
+# creating variable msg
 print(msg)
