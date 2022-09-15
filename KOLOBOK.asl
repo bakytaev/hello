@@ -125,6 +125,10 @@ Smiley = "vampire.gif", 0, "*VAMPIRE* *BAT* >:-E >:E >:-e >:e" , "*VAMPIRE*"
 Smiley = "gamer4.gif", 0, "*GAMER*", "*GAMER*"
 Smiley = "popcorm1.gif", 0, "*POPCORN*", "*POPCORN*"
 Smiley = "ireful1.gif", 0, "*IREFUL*", "*IREFUL*"
+Smiley = "yourock.gif", 0, "*ROCK*", "*ROCK*"
+Smiley = "south_park.gif", 0, "*SOUTHPARK*", "*SOUTHPARK*
+Smiley = "cowboy.gif", 0, "*COW*", "*COW*"
+Smiley = "martini.gif", 0, "*MARTINI*", "*MARTINI*"
 ;------------------------------------------
 ;               Custom CODE END
 ;------------------------------------------
